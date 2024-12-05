@@ -60,5 +60,28 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
 
+
 ##  Support
 Show your support by 🌟 the project!!
+
+## Output
+### Home Page
+
+![Screenshot 2024-12-04 234135](https://github.com/user-attachments/assets/37bfbe53-593a-45f0-b895-1374515dd8fd)
+
+### Signup & Login Authentication
+![Screenshot 2024-12-04 234253](https://github.com/user-attachments/assets/8dee9ae2-4c56-4cc5-a30a-db19026d613a)
+
+### Dashboard Page
+![Screenshot 2024-12-05 224903](https://github.com/user-attachments/assets/880c169b-3bdd-4ee5-a45a-8924f7c65e09)
+
+![Screenshot 2024-12-04 234543](https://github.com/user-attachments/assets/6fb5da74-c637-4a82-a500-52f9d4318ee9)
+![Screenshot 2024-12-04 234615](https://github.com/user-attachments/assets/8c30d6de-cdd6-4867-a908-906c444fa16a)
+![Screenshot 2024-12-04 234701](https://github.com/user-attachments/assets/43535579-c313-4f0f-a4c3-c303ee30be5d)
+
+### Feedback
+![Screenshot 2024-12-04 234815](https://github.com/user-attachments/assets/34b84b2e-e43e-49ae-80d8-a919610a966d)
+![Screenshot 2024-12-04 234827](https://github.com/user-attachments/assets/3cdc557f-ac5f-4dc3-9a0e-0ec508ff7589)
+
+### How it work
+![Screenshot 2024-12-05 224934](https://github.com/user-attachments/assets/dd2ab3b1-5bd7-40bc-bc1c-c124d85179e9)
